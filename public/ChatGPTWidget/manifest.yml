@@ -1,8 +1,6 @@
 ---
 applications:
 - name: pwc-chatgpt-widget
-  root: public
-  path: public
   directory: visible
   memory: 64M
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git

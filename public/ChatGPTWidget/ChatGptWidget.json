@@ -1,25 +1,25 @@
 {
-    "id": "com.rohitchouhan.sap.chatgptwidget",
+    "id": "com.prathameshpradhan.sap.chatgptwidget",
     "version": "1.0.3",
     "name": "ChatGPT Widget",
     "description": "ChatGPT Custom Widget for SAP Analytics Cloud, To make your application more useful and effective.",
     "newInstancePrefix": "ChatGptWidget",
-    "vendor": "Rohit Chouhan",
+    "vendor": "Prathamesh Pradhan",
     "eula": "",
     "license": "MIT",
-    "icon": "https:\/\/raw.githubusercontent.com\/SAP-Custom-Widget\/ChatGptWidget\/main\/icon.png",
+    "icon": "https://pwc-chatgpt-widget.cfapps.eu10-004.hana.ondemand.com/icon.png",
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "com-rohitchouhan-sap-chatgptwidget",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/ChatGptWidget@1.0.2\/ChatGptWidget.js",
+            "tag": "com-prathameshpradhan-sap-chatgptwidget",
+            "url": "https://pwc-chatgpt-widget.cfapps.eu10-004.hana.ondemand.com/ChatGptWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
-            "tag": "com-rohitchouhan-sap-chatgptwidget-builder",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/ChatGptWidget@1.0.2\/ChatGptWidget_Builder.js",
+            "tag": "com-prathameshpradhan-sap-chatgptwidget-builder",
+            "url": "https://pwc-chatgpt-widget.cfapps.eu10-004.hana.ondemand.com/ChatGptWidget_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
